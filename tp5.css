@@ -1,0 +1,1012 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.class1{
+    
+    width: 100%;
+   
+}
+.class1 a img{
+    width: 80px;
+    height: 80px;
+    position: absolute; 
+    left: 110px;
+    top: 17px;
+    transition: 0.5s;
+}
+.class1 a .home{
+    display: inline;
+    padding-left: 50px;
+    position:relative;
+    left: 580px;
+    top: 35px;
+    color: rgb(133, 195, 206);
+    font-family: sans-serif;
+    font-size: 19px;
+    
+    
+}
+.class1 a .localisation{
+    display: inline;
+    padding-left: 50px;
+    position:relative;
+    left: 580px;
+    top: 35px;
+    color: rgb(133, 195, 206);    
+    font-family: sans-serif;
+    font-size: 19px;
+    
+    
+}
+.class1 a .services{
+    display: inline;
+    padding-left: 50px;
+    position:relative;
+    left: 830px;
+    top: 15px;
+    color: rgb(133, 195, 206);
+    font-family: sans-serif;
+    font-size: 19px;
+    
+    
+}
+.class1 a .contact{
+    display: inline;
+    padding-left: 50px;
+    position:relative;
+    left: 820px;
+    top: 15px;
+    color: rgb(133, 195, 206);
+    font-family: sans-serif;
+    font-size: 19px;
+    
+    
+}
+.class1 a .doctors{
+    display: inline;
+    padding-left: 50px;
+    position:relative;
+    left: 1068px;
+    top: -8px;
+    color: rgb(133, 195, 206);
+    font-family: sans-serif;
+    font-size: 19px;
+    
+    
+}
+a {
+    text-decoration: none;
+}
+input{
+    position: relative;
+    left: 1180px;
+    top: 1px;
+    font-size: 17px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgb(133, 195, 206);
+    color: aliceblue;
+    font-size: 19px;
+    width: 130px;
+    transition: 0.5s;
+}
+
+.logo{
+    position: absolute;
+    left: 950px;
+    top: 120px;
+    width: 500px;
+    
+
+}
+.class3 p{
+    position: absolute;
+    left: 12px;
+    top: 365px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: rgb(133, 195, 206);
+    padding: 50px;
+    
+  
+
+}
+.class3 h1{
+    
+    position: absolute;
+    left: 53px;
+    top: 250px;
+    font-family: sans-serif;
+    color: rgb(133, 195, 206);
+    font-size: 60px;
+    transition: 0.5s;
+
+}
+.class4 input{
+    width: 190px;
+    font-size: 34px;
+    background-color:rgb(133, 195, 206) ;
+    color: aliceblue; 
+    top: 445px;
+    left: 340px;
+    transition: 0.5s;
+}
+.class4 a input:hover{
+    transform: scale(1.5);
+    background-color: aliceblue ;
+    color: rgb(133, 195, 206)
+}
+.class3 .anas{
+    position: absolute;
+    left: 3px;
+    top: 277px;
+    font-family: sans-serif;
+    font-size: 55px;
+    color: rgb(133, 195, 206);
+    padding: 50px;
+    
+}
+.class1 a p:hover{
+    transform: scale(1.5);
+    color: black;
+}
+.class1 input:hover{
+    transform: scale(1.5);
+
+}
+.class1 a .recherche{
+    position: absolute;
+    left: 1230px;
+    top: 41px;
+    width: 40px;
+    height: 40px;
+    transition: 0.5s;
+
+}
+.class1 a .recherche:hover{
+    transform: scale(1.5);
+}
+.class1 img:hover{
+    transform: scale(1.5);
+}
+
+.class5{
+    position: absolute;
+    top: 860px;
+    left: 350px;
+    background: rgb(133, 195, 206) ;
+    color: rgb(255, 255, 255);
+    height: 288px;
+    transition: 0.5s;
+
+    
+}
+.class5 p{
+    position: relative;
+    top: 126px;
+    left: 2px;
+    
+    width: 877px;
+    font-size: 26px;
+   text-align: center;
+}
+.class5:hover{
+    transform: scale(1.5);
+}
+
+.class6 h1{
+    position: absolute;
+    top: 1320px;
+    left: 480px;
+    font-size: 35px;
+}
+.class6 p{
+    position: absolute;
+    top: 1400px;
+    left: 610px;
+    color: grey;
+    font-size: 22px;
+}
+.r6{
+    width: 34px;
+    height: 34px;
+    position: relative;
+    top: 1480px;
+    left: 195px;
+    transition: 0.5s;
+}
+.cardio{
+    position: relative;
+    top: 1500px;
+    left: 135px;
+    font-size: 20px;
+}
+.laboratoire{
+    
+    width: 34px;
+    height: 34px;
+    position: relative;
+    top: 1310px;
+    left: 544px;
+    transition: 0.5s;
+
+}
+.medical{
+    position: relative;
+    top: 1332px;
+    left: 480px;
+    font-size: 20px;
+}
+.coeur{
+    width: 34px;
+    height: 34px;
+    position: relative;
+    top: 1148px;
+    left: 949px;
+    transition: 0.5s;
+
+}
+.Help{
+    
+    position: relative;
+    top: 1164px;
+    left: 899px;
+    font-size: 20px
+}
+.personne{
+    width: 34px;
+    height: 34px;
+    position: relative;
+    top: 980px;
+    left: 1299px;
+    transition: 0.5s;
+
+}
+.first{
+    position: relative;
+    top: 997px;
+    left: 1280px;
+    font-size: 20px
+
+}
+.r6:hover{
+    transform: scale(1.5);
+}
+.laboratoire:hover{
+    transform: scale(1.5);
+}
+.coeur:hover{
+    transform: scale(1.5);
+}
+.personne:hover{
+    transform: scale(1.5);
+}
+
+.PC{
+    width: 650px;
+    height: 399px;
+    position: relative;
+    top: 1520px;
+    left: 150px;
+    
+}
+.wts{
+    width: 445px;
+    height: 230px;
+    position: relative;
+    top: 1136px;
+    left: 253px;
+    
+}
+.class8 p{
+    color: rgb(133, 195, 206);
+    position: absolute;
+    top: 2350px;
+    width: 300px;
+    left: 888px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    width: 550px;
+}
+.class8 input{
+    width: 145px;
+    height: 45px;
+    font-size: 20px;
+    background-color:rgb(133, 195, 206);
+    color: aliceblue; 
+    top: 1113px;
+    left: 950px;
+    transition: 0.5s;
+
+}
+.class8 .sign{
+    width: 135px;
+    font-size: 20px;
+    background-color:aliceblue ;
+    color:rgb(133, 195, 206); 
+    
+    top: 1070px;
+    left: 1190px;
+    transition: 0.5s;
+
+}
+.class8 input:hover{
+    transform: scale(1.5);
+}
+.class8 .sign:hover{
+    transform: scale(1.5);
+}
+.class9{
+    background: rgb(133, 195, 206);
+    height: 620px;
+    position: absolute;
+    top: 2900px;
+    left: 300px;
+    width: 900px;
+    
+}
+.class9 h1{
+    position: relative;
+    top: 45px;
+    left: 50px;
+    color: aliceblue;
+}
+.class9 img{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    width: 260px;
+ 
+}
+
+.class9 p{
+    color: aliceblue;
+    position: absolute;
+    left: 160px;
+    top: 530px;
+    font-size: 30px;
+
+}
+.paragraphe{
+    position: relative;
+    left: 139px;
+    top: 1555px;
+    width: 230px;
+    transition: 0.5s;
+}
+.paragraphe2{
+    position: relative;
+    left: 465px;
+    top: 1380px;
+    width: 230px;
+    transition: 0.5s;
+}
+
+.paragraphe3{
+    position: relative;
+    left: 880px;
+    top: 1215px;
+    width: 230px;
+    transition: 0.5s;
+}
+.paragraphe4{
+    position: relative;
+    left: 1265px;
+    top: 1045px;
+    width: 230px;
+    transition: 0.5s;
+}
+.paragraphe:hover{
+transform: scale(1.5);
+}
+.paragraphe2:hover{
+    transform: scale(1.5);
+    }
+.paragraphe3:hover{
+        transform: scale(1.5);
+}
+.paragraphe4:hover{
+    transform: scale(1.5);
+}
+.class9 .sara{
+    position: absolute;
+    left: 540px;
+    top: 200px;
+    width: 280px;
+    height: 310px;
+}
+.class9 .ktaba{
+    position: absolute;
+    left: 630px;
+    top: 520px;
+    color: rgb(247, 245, 245);
+}
+section{
+    background-size: 260px;
+    
+    width: 260px;
+    
+}
+.class10{
+    background-image: url(imag/OIP\ \(1\).jpeg);
+    background-size: 1539px 600px;
+    position: absolute;
+    top: 3599px;
+   
+    width: 1539px;
+    height: 600px;
+
+}
+.class10 h1{
+    color: aliceblue;
+    position: absolute;
+    left: 637px;
+    top: 40px;
+    font-size: 37px;
+}
+.class10 p{
+    color: aliceblue;
+    position: absolute;
+    left: 670px;
+    top: 90px ;
+}
+.class10 .class11{
+    background-color: aliceblue;
+    background-size: 290px 330px;
+    width: 290px;
+    height: 330px;
+    position: absolute;
+    top: 200px;
+    left: 140px;
+}
+ .class11 .class12{
+    color: black;
+    width: 20px;
+    position: absolute;
+    left: 80px;
+    font-size: 20px;
+    
+}
+.class11 p{
+    color: gray;
+    position: absolute;
+    left: 30px;
+    top: 130px;
+    font-size: 20px;
+}
+.class11 input{
+    color: aliceblue;
+    background-color: rgb(21, 149, 200);
+    font-size: 18px;
+    position: absolute;
+    left: 82px;
+    top: 265px;
+    transition: 0.5s;
+}
+.class11 input:hover{
+    transform: scale(1.5);
+    color:  rgb(21, 149, 200);
+    background-color: aliceblue ; 
+
+}
+.class11 img{
+    border-radius: 20px;
+    width: 68px;
+    height: 68px;
+    position: absolute;
+    left: 100px;
+    top: -43px;
+}
+.class13{
+    background-color: aliceblue;
+    background-size: 290px 330px;
+    width: 290px;
+    height: 330px;
+    position: absolute;
+    top: -1px;
+    left:500px;
+}
+
+.class13 p{
+    color: gray;
+    position: absolute;
+    left: 30px;
+    top: 130px;
+    font-size: 20px;
+}
+.class13 h1{
+    color: black;
+    width: 20px;
+    position: absolute;
+    left: 80px;
+    font-size: 20px;
+
+}
+.class13 img{
+    position: absolute;
+    left: 99px;
+}
+.class15{
+    background-color: aliceblue;
+    background-size: 290px 330px;
+    width: 290px;
+    height: 330px;
+    position: absolute;
+    top: -0px;
+    left: 1000px;
+}
+.class15 h1{
+    color: black;
+    width: 20px;
+    position: absolute;
+    left: 80px;
+    font-size: 20px;
+
+}
+.class16{
+    background: rgb(227, 226, 226);
+    background-size: 1530px 600px;
+    position: absolute;
+    top: 4270px;
+    
+    width: 1530px;
+    height: 600px;
+}
+.class17{
+    background-color: aliceblue;
+    background-size: 390px 530px;
+    width: 390px;
+    height: 530px;
+    position: absolute;
+    top: 50px;
+    left: 230px;
+
+}
+.class17 img{
+    width: 350px;
+    height: 200px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+.class17 h1{
+    position: absolute;
+    top: 220px;
+    left: 40px;
+    width: 380px;
+    
+}
+.class17 p{
+    position: absolute;
+    top: 345px;
+    left: 40px;
+    width: 365px;
+    font-size: 20px;
+    color: grey;
+}
+.class17 .img{
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    top: 493px;
+    left: 43px;
+}
+.class17 .oct{
+    color: grey;
+    position: absolute;
+    top: 493px;
+    left:65px ;
+    font-size: 15px;
+}
+
+.class19{
+    background-color: aliceblue;
+    background-size: 390px 530px;
+    width: 390px;
+    height: 530px;
+    position: absolute;
+    top: 50px;
+    left: 870px;
+
+}
+.class19 img{
+    width: 350px;
+    height: 200px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+.class19 .img{
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    top: 493px;
+    left: 43px;
+}
+.class19 p{
+    position: absolute;
+    top: 345px;
+    left: 40px;
+    width: 365px;
+    font-size: 20px;
+    color: grey;
+}
+.class19 .oct{
+    color: grey;
+    position: absolute;
+    top: 493px;
+    left:65px ;
+    font-size: 15px;
+}
+.class19 h1{
+    position: absolute;
+    top: 220px;
+    left: 40px;
+    width: 380px;
+    
+}
+.class17 .symbole{
+
+width: 18px;
+    height: 18px;
+    position: absolute;
+    top: 493px;
+    left: 229px;
+}
+.class17 .com{
+    color: grey;
+    position: absolute;
+    top: 493px;
+    left:250px ;
+    font-size: 15px;
+}
+.class18 .symbole{
+
+    width: 18px;
+        height: 18px;
+        position: absolute;
+        top: 493px;
+        left: 229px;
+}
+.class18 .com{
+    color: grey;
+    position: absolute;
+    top: 493px;
+    left:250px ;
+    font-size: 15px;
+}
+.class19 .symbole{
+
+        width: 18px;
+        height: 18px;
+        position: absolute;
+        top: 493px;
+        left: 229px;
+}
+.class19 .com{
+    color: grey;
+    position: absolute;
+    top: 493px;
+    left:250px ;
+    font-size: 15px;
+}
+.class20{
+    background-image: url(imag/slider-image-03.jpg);
+    background-size: 1539px 750px;
+    position: absolute;
+    top: 600px;
+    width: 1577px;
+    height: 750px;
+}
+.class21{   
+background-color:rgb(246, 248, 250);
+background-size: 390px 530px;
+width: 390px;
+height: 530px;
+position: absolute;
+top: 130px;
+left: 350px;
+}
+.class21 h1{
+    position: absolute;
+    left: 139px;
+    top: 100px;
+    font-size: 37px;
+}
+.class21 input{
+    position: absolute;
+    left: 68px;
+    top: 230px;
+    background-color: rgb(146, 223, 240);
+    width: 250px;
+    height: 40px;
+}
+.class21 .psw{
+    position: absolute;
+    left: 68px;
+    top: 300px;
+    background-color: rgb(146, 223, 240) ;
+    width: 250px;
+    height: 40px;
+}
+.class21 .in{
+    position: absolute;
+    left: 68px;
+    top: 360px;
+    background-color:rgb(146, 223, 240) ;
+    width: 100px;
+    height: 28px;
+}
+.class21 a p{
+    position: absolute;
+    left: 190px;
+    top: 367px;
+    color: rgb(14, 18, 20);
+}
+.class22{
+    background-image: url(imag/medical-wallpaper.webp);
+    background-size: 1539px 750px;
+    position: absolute;
+    top: 1350px;
+    width: 1577px;
+    height: 750px;
+}
+.class22 img{
+    width: 400px;
+    height: 460px;
+    position: absolute;
+    left: 300px;
+    top: 130px;
+}
+.class22 .class23{
+    background-color:rgb(133, 195, 206);
+background-size: 450px 400px;
+width: 450px;
+height: 460px;
+position: absolute;
+top: 130px;
+left: 700px;
+}
+.class23 h1{
+    position: absolute;
+    left: 139px;
+    top: 50px;
+    font-size: 37px;
+}
+.class23 p{
+    position: absolute;
+    top: 100px;
+    left: 70px;
+    width: 380px;
+    font-size: 15px;
+    color: rgb(17, 13, 13);
+}
+.class23 .name{
+    position: absolute;
+    left: 30px;
+    top: 140px;
+    background-color: rgb(242, 244, 245);
+    width: 390px;
+    height: 40px;
+    color:rgb(133, 195, 206) ;
+}
+.class23 .email{
+    position: absolute;
+    left: 30px;
+    top: 193px;
+    background-color: rgb(242, 244, 245);
+    width: 390px;
+    height: 40px;
+    color:rgb(133, 195, 206) ;
+}
+.class23 .message{
+    position: absolute;
+    left: 30px;
+    top: 250px;
+    background-color: rgb(242, 244, 245);
+    width: 390px;
+    height: 100px;
+    color:rgb(133, 195, 206) ;
+}
+.class23 .send{
+    position: absolute;
+    left: 110px;
+    top: 385px;
+    background-color:rgb(242, 245, 246) ;
+    width: 200px;
+    height: 28px;
+    color:rgb(133, 195, 206) ;
+}
+.class24{
+    background-image: url(imag/R.jpeg);
+    background-size: 1539px 600px;
+    position: absolute;
+    top: 750px;
+    width: 1577px;
+    height: 750px;
+}
+.class24 h1{
+    color: aliceblue;
+    position: absolute;
+    top: 100px;
+    left: 190px;
+}
+.class24 a .class25{
+  border-radius: 3px;
+    position: absolute;
+    top: 160px;
+    left: 190px;
+    background-color: gray;
+    color: rgb(242, 239, 239);
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+
+}
+.class24 a .class26{
+    border-radius: 3px;
+      position: absolute;
+      top: 160px;
+      left: 300px;
+      background-color: gray;
+      color: rgb(241, 236, 236);
+      width: 100px;
+      height: 30px;
+      font-size: 15px;
+  
+  }
+  .class24 a .class27{
+    border-radius: 3px;
+      position: absolute;
+      top: 210px;
+      left: 190px;
+      background-color: gray;
+      color: rgb(241, 236, 236);
+      width: 100px;
+      height: 30px;
+      font-size: 15px;
+  
+  }
+  .class24 a .class28{
+    border-radius: 3px;
+      position: absolute;
+      top: 210px;
+      left: 300px;
+      background-color: gray;
+      color: rgb(241, 236, 236);
+      width: 100px;
+      height: 30px;
+      font-size: 15px;
+  
+  }
+  .class24 a .class29{
+    border-radius: 3px;
+      position: absolute;
+      top: 260px;
+      left: 190px;
+      background-color: gray;
+      color: rgb(241, 236, 236);
+      width: 100px;
+      height: 30px;
+      font-size: 15px;
+  
+  }
+  .class24 a .class30{
+    border-radius: 3px;
+      position: absolute;
+      top: 260px;
+      left: 300px;
+      background-color: gray;
+      color: rgb(241, 236, 236);
+      width: 100px;
+      height: 30px;
+      font-size: 15px;
+  
+  }
+  .class31 h1{
+    color: aliceblue;
+    position: absolute;
+    top: 100px;
+    left: 600px;
+}
+.class31 p{
+    color: aliceblue;
+    position: absolute;
+    top: 200px;
+    left: 630px;
+    width: 250px;
+    font-size: 20px;
+}
+.class31 .class32{
+    color: aliceblue;
+    position: absolute;
+    top: 150px;
+    left: 1100px;
+    width: 250px;
+    font-size: 20px;
+}
+.class31 .class33{
+    color: aliceblue;
+    position: absolute;
+    top: 190px;
+    left: 1100px;
+    width: 250px;
+    font-size: 20px;
+}
+.class31 .class34{
+    color: aliceblue;
+    position: absolute;
+    top: 230px;
+    left: 1100px;
+    width: 250px;
+    font-size: 20px;
+}
+.class31 .class35{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    position: absolute;
+    top: 270px;
+    left: 1100px;
+    
+}
+.class31 .class36{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    position: absolute;
+    top: 310px;
+    left: 1100px;
+    
+}
+
+.class31 .class37{
+   
+    position: absolute;
+    top: 270px;
+    left: 1130px;
+    
+}
+.class31 .class38{
+    
+    position: absolute;
+    top: 310px;
+    left: 1130px;
+    
+}
+.class31 hr{
+    color: aliceblue;
+    position: absolute;
+    top: 500px;
+    
+    width: 1577px;
+
+}
+.class31 .class39{
+    width: 50px;
+    height: 50px;
+    
+    position: absolute;
+    top: 545px;
+    left: 500px;
+}
+.class31 .class40{
+    width: 60px;
+    height: 60px;
+    
+    position: absolute;
+    top: 540px;
+    left: 735px;
+
+}
+.class31 .class41{
+    width: 50px;
+    height: 50px;
+    
+    position: absolute;
+    top: 545px;
+    left: 1000px;
+}
+
